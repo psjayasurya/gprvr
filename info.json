@@ -1,0 +1,15 @@
+{
+  "input_file": "CONCRETE_500.csv",
+  "total_points": 538525,
+  "layers": 5,
+  "has_surface": true,
+  "num_slices": 5,
+  "data_bounds": {
+    "x_min": -2.4950000000000006,
+    "x_max": 2.4949999999999997,
+    "y_min": -2.500000000000026,
+    "y_max": 2.499999999999974,
+    "z_min": -0.475,
+    "z_max": -0.025
+  }
+}
